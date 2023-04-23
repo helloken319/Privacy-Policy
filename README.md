@@ -42,7 +42,7 @@
 
 <h2>Use of Data</h2>
     
-<p>shawn736.ios@gmail.com uses the collected data for various purposes:</p>    
+<p>hello.ken@foxmail.com uses the collected data for various purposes:</p>    
 <ul>
     <li>To provide and maintain the Service</li>
     <li>To notify you about changes to our Service</li>
