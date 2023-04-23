@@ -1,12 +1,12 @@
 <h1>Privacy Policy</h1>
 
 
-<p>Effective date: March 17, 2019</p>
+<p>Effective date: April 23, 2023</p>
 
 
-<p>shawn736.ios@gmail.com ("us", "we", or "our") operates the  mobile application (hereinafter referred to as the "Service").</p>
+<p>hello.ken@foxmail.com ("us", "we", or "our") operates the  mobile application (hereinafter referred to as the "Service").</p>
 
-<p>This page informs you of our policies regarding the collection, use, and disclosure of personal data when you use our Service and the choices you have associated with that data. Our Privacy Policy  for shawn736.ios@gmail.com  is created with the help of the <a href="https://privacypolicies.com/">Privacy Policies website</a>.</p>
+<p>This page informs you of our policies regarding the collection, use, and disclosure of personal data when you use our Service and the choices you have associated with that data. Our Privacy Policy  for hello.ken@foxmail.com  is created with the help of the <a href="https://privacypolicies.com/">Privacy Policies website</a>.</p>
 
 <p>We use your data to provide and improve the Service. By using the Service, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, the terms used in this Privacy Policy have the same meanings as in our Terms and Conditions.</p>
 
@@ -57,15 +57,15 @@
 <p>Your information, including Personal Data, may be transferred to — and maintained on — computers located outside of your state, province, country or other governmental jurisdiction where the data protection laws may differ than those from your jurisdiction.</p>
 <p>If you are located outside China and choose to provide information to us, please note that we transfer the data, including Personal Data, to China and process it there.</p>
 <p>Your consent to this Privacy Policy followed by your submission of such information represents your agreement to that transfer.</p>
-<p>shawn736.ios@gmail.com will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this Privacy Policy and no transfer of your Personal Data will take place to an organization or a country unless there are adequate controls in place including the security of your data and other personal information.</p>
+<p>hello.ken@foxmail.com will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this Privacy Policy and no transfer of your Personal Data will take place to an organization or a country unless there are adequate controls in place including the security of your data and other personal information.</p>
 
 <h2>Disclosure Of Data</h2>
 
 <h3>Legal Requirements</h3>
-<p>shawn736.ios@gmail.com may disclose your Personal Data in the good faith belief that such action is necessary to:</p>
+<p>hello.ken@foxmail.com may disclose your Personal Data in the good faith belief that such action is necessary to:</p>
 <ul>
     <li>To comply with a legal obligation</li>
-    <li>To protect and defend the rights or property of shawn736.ios@gmail.com</li>
+    <li>To protect and defend the rights or property of hello.ken@foxmail.com</li>
     <li>To prevent or investigate possible wrongdoing in connection with the Service</li>
     <li>To protect the personal safety of users of the Service or the public</li>
     <li>To protect against legal liability</li>
@@ -99,5 +99,5 @@
 <h2>Contact Us</h2>
 <p>If you have any questions about this Privacy Policy, please contact us:</p>
 <ul>
-        <li>By email: shawn736.ios@gmail.com</li>
+        <li>By email: hello.ken@foxmail.com</li>
 </ul>
